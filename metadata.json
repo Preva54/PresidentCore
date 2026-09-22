@@ -1,0 +1,6 @@
+{
+  "name": "PresidentCore Projects (Pty) Ltd",
+  "description": "PresidentCore Projects provides industrial, maintenance, construction, IT, security, equipment and supply solutions across South Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
